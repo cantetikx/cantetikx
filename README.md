@@ -15,14 +15,17 @@
 
 ### 🧑‍💻 About Me
 
-A dual-disciplinary systems engineer working on **Linux-based infrastructures** and **virtualization technologies**, with hands-on experience in **high-performance computing (HPC) clusters**, **distributed file systems**, and enterprise AI infrastructure.
+Linux sistem yönetimi ve altyapı otomasyonu üzerine çalışan bir **Linux System Administrator**'ım. Yüksek performanslı hesaplama (HPC) kümeleri, sanallaştırma teknolojileri ve dağıtık dosya sistemleri üzerinde hands-on deneyim edindim; şu anda Eduline Bilişim bünyesinde Linux tabanlı HPC ve kurumsal AI altyapılarının kurulumu, yönetimi ve performans optimizasyonundan sorumluyum.
 
-- 🖥️ Currently: **Linux System Administrator** @ Eduline Bilişim (İstanbul)
+Kariyerim boyunca **KVM/Proxmox** sanallaştırma platformlarını **BeeGFS** dağıtık depolama üzerinde işletme, production **Kubernetes** kümeleri kurma/yönetme ve **Grafana + Prometheus + XDMoD** ile uçtan uca gözlemlenebilirlik (observability) katmanları inşa etme konularında yer aldım. İŞKUR bünyesindeki GPU cluster projesinde **AWS S3** bucket'ları kullanarak bulut depolama ile çalıştım ve şu anda **AWS Cloud**, **Infrastructure as Code (IaC)** ve **GitOps** konularında kendimi aktif olarak geliştiriyorum.
+
+Amacım; geliştirme ve operasyon ekipleri arasındaki boşluğu kapatarak sistemleri daha güvenilir, ölçeklenebilir ve otomatikleştirilmiş hale getirmek. Site Reliability Engineering (SRE) ve Cloud Native teknolojiler benim için sürekli öğrenme odağım.
+
+- 🖥️ Şu an: **Linux System Administrator** @ Eduline Bilişim (İstanbul)
 - 🎓 Chemical Engineering @ Hacettepe University + Computer Programming @ İstanbul University (AUZEF)
-- ⚙️ Deploying & operating **KVM/Proxmox** virtualization on **BeeGFS** distributed storage
-- ☸️ Running production **Kubernetes** clusters for containerized AI/HPC workloads
-- 📊 Full observability stacks with **Grafana**, **Prometheus**, and **XDMoD**
-- 📍 Based in Ankara, Türkiye | 🌐 EN (C1) · DE (A2)
+- ☁️ Öğreniyorum: **AWS Cloud**, **Infrastructure as Code**, **GitOps**, **SRE**
+- 📍 Ankara, Türkiye | 🌐 EN (C1) · DE (A2)
+- 🤝 Yeni fırsatlar ve iş birlikleri konusunda açığım — iletişime geçmekten çekinmeyin!
 
 ---
 
@@ -38,6 +41,15 @@ A dual-disciplinary systems engineer working on **Linux-based infrastructures** 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+**☁️ Currently Learning / Exploring**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform%20(IaC)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-FF6D00?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/SRE-4285F4?style=for-the-badge" />
+</p>
 
 **Infrastructure & Virtualization**
 <p align="left">
